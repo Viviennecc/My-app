@@ -18,10 +18,10 @@ export const services = [
     text: "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.",
   },
 ];
-import tour1 from "../assets/tour1.jpg";
-import tour2 from "../assets/tour2.jpg";
-import tour3 from "../assets/tour3.jpg";
-import tour4 from "../assets/tour4.jpg";
+import tour1 from "./src/assets/tour1.jpg";
+import tour2 from "./src/assets/tour2.jpg";
+import tour3 from "./src/assets/tour3.jpg";
+import tour4 from "./src/assets/tour4.jpg";
 
 export const tours = [
   {
